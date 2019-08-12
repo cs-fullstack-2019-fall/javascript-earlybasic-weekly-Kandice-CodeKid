@@ -1,3 +1,5 @@
+// The only thing you were missing is adding some validation. By using if and else if you could add an else at the very end to cover all submission errors.
+
 //alert("Kandice")
 alert("Welcome");
 var Option = prompt("Press 1 to count   Press 2 to calculate    press 'q' to Quit");
